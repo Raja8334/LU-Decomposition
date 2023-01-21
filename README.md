@@ -46,6 +46,7 @@ print(x)
 (i)
 !['lu_decomposition'](/i.png)
 (ii)
+
 !['output'](/ii.png)
 
 ## Result:
